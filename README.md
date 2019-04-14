@@ -1,5 +1,8 @@
 # bionic64-portapack-havoc
 portapack-havoc Ubuntu builder
+* https://www.rtl-sdr.com/a-review-of-the-hackrf-portapack-with-havok-firmware/
+* https://github.com/furrtek/portapack-havoc
+
 
 To build 
 ```
